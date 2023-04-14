@@ -1,0 +1,60 @@
+body{
+    background-image: url(https://wallpaperaccess.com/full/8642898.gif);
+}
+.text-center{
+    text-align: center;
+}
+.bienvenida{
+    color: #d5ff19;
+    font-family: 'Orbitron', sans-serif;
+}
+.presentado{
+    color: #10c5fc;
+}
+.parrafo{
+    color: #ebfc03;
+    font-family: 'Alkatra', cursive;
+}
+.boton{
+    display: flex;
+    justify-content: center;
+}
+.text-boton{
+    background-color: #01e8f8e8;
+    color: rgb(250, 250, 250);
+    font-size: larger;
+}
+.body2{
+    background-image: url(https://wallpaperaccess.com/full/8642898.gif);
+}
+.text-primario{
+    font-family: 'Orbitron', sans-serif;
+    color: #d5ff19;
+    font-size: xx-large;
+}
+.text-secundario{
+    font-family: 'Orbitron', sans-serif;
+    color: #ff1e00;
+    font-size:large;
+}
+.subtitulo{
+    font-family: 'Orbitron', sans-serif;
+    color: #10b1fc;
+    font-size: x-large;
+}
+.table-center{
+    display: flex;
+    justify-content: center;
+}
+.color{
+    background-color: #000000e1;
+}
+.escucha{
+    font-family: 'Orbitron', sans-serif;
+    color: #0ad7fc;
+    font-size: large
+}
+.sesion{
+    color:#f8e80a;
+    text-decoration: underline;
+}
